@@ -2,7 +2,7 @@
 # address = "1.2.3.4"
 
 # [development]
-address = "0.0.0.0"
+address = "https://murmuring-atoll-34131.herokuapp.com"
 port = 8000
 workers= 2 # max(number_of_cpus, 2)
 log = "normal"
