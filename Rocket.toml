@@ -15,7 +15,7 @@ workers = 2 # max(number_of_cpus, 2)
 log = "normal"
 
 [production]
-address = "murmuring-atoll-34131"
+address = "localhost"
 port = 8000
 workers = 2 # max(number_of_cpus, 2)
 log = "critical"
